@@ -21,6 +21,10 @@ https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667633056
 https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667633057
 
 
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="Malaysia", TV 3 (1)
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
 #EXTINF: -1 tvg-name="SCTV HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="Malaysia", Astro Ceria HD 1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
